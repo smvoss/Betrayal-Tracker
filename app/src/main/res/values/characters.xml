@@ -206,7 +206,7 @@ His greatest fear is of the dark.
     </array>
     <array name="darrin_williams">
         <item name="about">
-            <string name="name">Darrin 'Flash' Williams</string>
+            <string name="name">Darrin \'Flash\' Williams</string>
             <string name="eye_color"></string>
             <string name="age">20</string>
             <string name="height">5\'11\"</string>
@@ -672,34 +672,34 @@ clown puppets.
                 <item>8</item>
             </integer-array>
             <integer-array name="might">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-            </integer-array>
-            <integer-array name="sanity">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>2</item>
+                <item>3</item>
+                <item>3</item>
+                <item flag="default">4</item>
+                <item>5</item>
+                <item>6</item>
+                <item>6</item>
+                <item>7</item>
             </integer-array>
             <integer-array name="knowledge">
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>1</item>
+                <item>3</item>
+                <item flag="default">3</item>
+                <item>5</item>
+                <item>5</item>
+                <item>6</item>
+                <item>6</item>
+                <item>7</item>
+            </integer-array>
+            <integer-array name="sanity">
+                <item>3</item>
+                <item>3</item>
+                <item>3</item>
+                <item flag="default">4</item>
+                <item>5</item>
+                <item>6</item>
+                <item>7</item>
+                <item>7</item>
             </integer-array>
         </item>
     </array>
@@ -733,44 +733,44 @@ better than his deadbeat father.
         </item>
         <item name="stats">
             <integer-array name="speed">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>2</item>
+                <item>2</item>
+                <item>4</item>
+                <item flag="default">4</item>
+                <item>5</item>
+                <item>5</item>
+                <item>6</item>
+                <item>6</item>
             </integer-array>
             <integer-array name="might">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-            </integer-array>
-            <integer-array name="sanity">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>1</item>
+                <item>2</item>
+                <item flag="default">3</item>
+                <item>4</item>
+                <item>5</item>
+                <item>5</item>
+                <item>6</item>
+                <item>6</item>
             </integer-array>
             <integer-array name="knowledge">
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>4</item>
+                <item>5</item>
+                <item>5</item>
+                <item>5</item>
+                <item flag="default">5</item>
+                <item>6</item>
+                <item>7</item>
+                <item>8</item>
+            </integer-array>
+            <integer-array name="sanity">
+                <item>1</item>
+                <item>3</item>
+                <item flag="default">3</item>
+                <item>4</item>
+                <item>5</item>
+                <item>5</item>
+                <item>6</item>
+                <item>7</item>
             </integer-array>
         </item>
     </array>
@@ -807,44 +807,44 @@ More than anything, Father Rhinehardt fears going mad.
         </item>
         <item name="stats">
             <integer-array name="speed">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>2</item>
+                <item>3</item>
+                <item flag="default">3</item>
+                <item>4</item>
+                <item>5</item>
+                <item>6</item>
+                <item>7</item>
+                <item>7</item>
             </integer-array>
             <integer-array name="might">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-            </integer-array>
-            <integer-array name="sanity">
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>1</item>
+                <item>2</item>
+                <item flag="default">2</item>
+                <item>4</item>
+                <item>4</item>
+                <item>5</item>
+                <item>5</item>
+                <item>7</item>
             </integer-array>
             <integer-array name="knowledge">
-                <item></item>
-                <item></item>
-                <item></item>
-                <item></item>
-                <item flag="default"></item>
-                <item></item>
-                <item></item>
-                <item></item>
+                <item>1</item>
+                <item>3</item>
+                <item>3</item>
+                <item flag="default">4</item>
+                <item>5</item>
+                <item>6</item>
+                <item>6</item>
+                <item>8</item>
+            </integer-array>
+            <integer-array name="sanity">
+                <item>3</item>
+                <item>4</item>
+                <item>5</item>
+                <item>5</item>
+                <item flag="default">6</item>
+                <item>7</item>
+                <item>7</item>
+                <item>8</item>
             </integer-array>
         </item>
     </array>

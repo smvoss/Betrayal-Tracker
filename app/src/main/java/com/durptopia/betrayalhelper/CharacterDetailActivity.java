@@ -1,6 +1,7 @@
 package com.durptopia.betrayalhelper;
 
 import android.content.Intent;
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -10,6 +11,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.NavUtils;
 import android.view.MenuItem;
+
+import com.durptopia.betrayalhelper.characters.meta.Character;
+
+import java.io.FileNotFoundException;
+import java.io.InputStream;
 
 /**
  * An activity representing a single Character detail screen. This
@@ -34,6 +40,10 @@ public class CharacterDetailActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        InputStream ins = getResources().openRawResource(
+                getResources().getIdentifier("characters", "raw", getPackageName()));
+        Character heather = new Character(ins);
 
         // Show the Up button in the action bar.
         ActionBar actionBar = getSupportActionBar();
